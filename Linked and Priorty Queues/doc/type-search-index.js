@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"Model","l":"LinkedQueue"},{"p":"Model","l":"PriorityQueue"},{"p":"Model","l":"QNode"},{"p":"Model","l":"QueueInterface"},{"p":"Application","l":"RunQueues"},{"p":"TestModel","l":"TestLinkedQueue"},{"p":"TestModel","l":"TestPriorityQueue"}];updateSearchResults();
